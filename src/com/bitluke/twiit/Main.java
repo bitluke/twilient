@@ -58,7 +58,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class Main extends ListActivity implements OnClickListener {
-	public static final String TAG = "BLOA";
+	public static final String TAG = "MAIN";
 	TimelineSelector ss = new TimelineSelector(
 			Constants.HOME_TIMELINE_URL_STRING);
 
