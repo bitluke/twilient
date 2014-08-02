@@ -9,8 +9,8 @@ public interface Constants {
 	public static final String FRIENDS_TIMELINE_URL_STRING = "http://api.twitter.com/1/statuses/friends_timeline.json";
 	public static final String STATUSES_URL_STRING = "http://twitter.com/statuses/update.json";
 	
-	public static final String TWITTER_CONSUMER_KEY = "AswvdvceKYYJwmaiGtg0Q";
-	public static final String TWITTER_CONSUMER_SECRET = "4GRJlUsvnN2yumHI5O7LhwmTtsdT3ffrYi5FiXZU";
+	public static final String TWITTER_CONSUMER_KEY = "AswvdvcEeKYYJwmaiDFGtg0Q";
+	public static final String TWITTER_CONSUMER_SECRET = "4GRJlUsvnN2yEumHI5O7LhwmTtsdT3ffRrYi5FiXZU";
 	
 	public static final String TWITTER_REQUEST_TOKEN_URL = "https://api.twitter.com/oauth/request_token";
 	public static final String TWITTER_ACCESS_TOKEN_URL = "https://api.twitter.com/oauth/access_token";
